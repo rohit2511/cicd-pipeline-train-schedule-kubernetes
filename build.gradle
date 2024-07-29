@@ -12,7 +12,6 @@ plugins {
 
 node {
 	download = true
-	version = '10.14.1'
 	npmVersion = "6.4.1"
 }
 
