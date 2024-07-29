@@ -12,7 +12,7 @@ plugins {
 
 node {
 	download = true
-	version = '19.9.0'
+	version = '17.9.1'
 	npmVersion = "6.4.1"
 }
 
